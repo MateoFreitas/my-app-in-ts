@@ -1,2 +1,2 @@
-# my-app-in-ts #FReitas_Nobile
+# my-app-in-ts #Freitas_Nobile
 creando-proyecto-con-typescipt
